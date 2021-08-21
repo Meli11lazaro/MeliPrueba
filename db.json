@@ -32,6 +32,17 @@
          "Colonia": "San Pedro",
          "Calle": "Av Tolteca",
          "Ninte": 125
+      },
+      {
+         "userId": 1,
+         "id": 3,
+         "Nombre": "Victoor",
+         "Apellido": "Lazaro",
+         "Email": "Victor@gmail.com",
+         "Telefono": 7894561230,
+         "Colonia": "San Pedro",
+         "Calle": "Av Tolteca",
+         "Ninte": 10
       }
    ]
 }
