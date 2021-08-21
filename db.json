@@ -35,7 +35,7 @@
       },
       {
          "userId": 1,
-         "id": 3,
+         "id": 4,
          "Nombre": "Victoor",
          "Apellido": "Lazaro",
          "Email": "Victor@gmail.com",
@@ -43,6 +43,17 @@
          "Colonia": "San Pedro",
          "Calle": "Av Tolteca",
          "Ninte": 10
+      },
+      {
+         "userId": 1,
+         "id": 5,
+         "Nombre": "Aurelio",
+         "Apellido": "Juarez",
+         "Email": "Aurelio@gmail.com",
+         "Telefono": 1234567890,
+         "Colonia": "San Pedro",
+         "Calle": "Av Tolteca",
+         "Ninte": 568
       }
    ]
 }
